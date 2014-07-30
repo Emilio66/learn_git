@@ -2,3 +2,4 @@
 Git is a free software of open source community.
 I put this line as a mark of not committing modification.
 git track changes of file. you must add this modification before committing.
+Otherwise, it will not be recorded.
