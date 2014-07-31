@@ -1,0 +1,2 @@
+I use this file as an example of deletion.
+We can restore this file once we deleted it as long as we commit this change to the repository.
